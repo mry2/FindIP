@@ -5,7 +5,7 @@ $ pkg install git python2 python-pip
 $ pip2 install requests
 $ pip install --upgrade-pip
 $ git clone https://github.com/mry2/FindIP
-$ cd findip
+$ cd FindIP
 $ ls
 $ chmod 777 *.py
 $ python2 findip.py
